@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m1sury.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-04T12:28:00.502Z</updated>
+    <title>MyBlog</title>
+    <updated>2021-07-04T12:30:20.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://m1sury.github.io"/>
     <link rel="self" href="https://m1sury.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://m1sury.github.io/images/avatar.png</logo>
     <icon>https://m1sury.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, MyBlog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://m1sury.github.io/post/hello-gridea/</id>
